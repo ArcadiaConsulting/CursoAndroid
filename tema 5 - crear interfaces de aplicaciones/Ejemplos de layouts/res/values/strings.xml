@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, RelativeLayout!</string>
+    <string name="app_name">Ejemplos de layouts</string>
+    <string name="linearlayout">Linear Layout</string>
+    <string name="LinearLayoutLandscape">Linear Layout Horizontal</string>
+    <string name="rekative_layout">Relative Layout</string>
+    <string name="tableLayout">Table Layout</string>
+    <string name="frameLayout">Frame Layout</string>
+    <string name="gridLayout">Grid Layout</string>
+</resources>

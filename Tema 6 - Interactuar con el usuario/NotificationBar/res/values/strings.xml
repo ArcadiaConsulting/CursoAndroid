@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, NotificationBarActivity!</string>
+    <string name="app_name">NotificationBar</string>
+    <string name="notifyMe">Pulsa para enviar una notificación</string>
+    <string name="targetText">Esta es la actividad objetivo</string>
+    <string name="cancelNotification">Pulsame para cancelar la notificacion</string>
+
+</resources>

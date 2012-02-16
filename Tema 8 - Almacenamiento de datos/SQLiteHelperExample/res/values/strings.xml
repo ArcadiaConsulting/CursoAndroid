@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, SQLiteHelperExampleActivity!</string>
+    <string name="app_name">SQLiteHelperExample</string>
+    <string name="listButton">Listar registros</string>
+    <string name="addEntry">Añadir registro</string>
+    <string name="deleteEntry">Borrar registro</string>
+    <string name="saveEntryButton">Guardar registro</string>
+    <string name="clearEntryButton">Limpiar</string>
+    <string name="nameText">Nombre</string>
+    <string name="numberText">Número</string>
+    <string name="selectText">Introduzca el nombre de contacto a borrar</string>
+    <string name="listLog">Listar en el Log</string>
+    <string name="detailTextViewName">Nombre</string>
+    <string name="detailTextViewNumber">Número</string>
+
+</resources>

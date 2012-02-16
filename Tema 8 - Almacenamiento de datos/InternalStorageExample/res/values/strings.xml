@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, InternalStorageExampleActivity!</string>
+    <string name="app_name">InternalStorageExample</string>
+    <string name="saveButton">Guardar</string>
+    <string name="loadButton">Cargar</string>
+
+</resources>

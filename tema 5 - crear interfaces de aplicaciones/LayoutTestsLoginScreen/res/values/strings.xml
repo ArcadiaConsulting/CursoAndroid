@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, LinearActivity!</string>
+    <string name="app_name">LayoutTestsLoginScreen</string>
+    <string name="linearLayoutButton">Linear</string>
+    <string name="realativeLayout">relative</string>
+    <string name="table">table</string>
+    <string name="grid">grid</string>
+    <string name="linearText">Este es linearLayout</string>
+
+</resources>

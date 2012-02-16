@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, ToastNotificationTestActivity!</string>
+    <string name="app_name">ToastNotificationTest</string>
+    <string name="toasNotificationLong">Toast largo</string>
+    <string name="toastShort">Toast corto</string>
+    <string name="dialog1">Alerta de dos botones</string>
+    <string name="dialog2">Lista unica</string>
+    <string name="toastText">Una notificacion como recurso</string>
+    <string name="dialog3">Lista de radio buttons</string>
+    <string name="customDialog">Dialogo personalizado</string>
+    <string name="customDialogButton">Boton del custom dialog</string>
+    <string name="customDialogText">Texto dentro del custom dialog</string>
+    <string name="custom_toast_button_text">Toast personalizado</string>
+
+</resources>

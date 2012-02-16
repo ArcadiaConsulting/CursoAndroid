@@ -1,0 +1,24 @@
+# Compiled source 
+#-------------------------------
+*.com
+*.class
+*.dll
+*.exe
+
+# OS generated files
+# -------------------------------
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# Metadata file (eclipse)
+.metadata
+
+# bin and gen folders
+bin/
+gen/
+.settings/
+
+#Subversion folders
+.svn/

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:id="@+id/newEntry"
+        android:icon="@drawable/ic_launcher"
+        android:title="@string/newText">
+    </item>
+    <item
+        android:id="@+id/editEntry"
+        android:title="@string/editText">
+    </item>
+    <item
+        android:id="@+id/deleteEntry"
+        android:title="@string/deleteText">
+    </item>
+    <item
+        android:id="@+id/item1"
+        android:title="submenu">
+        <menu>
+            <item
+                android:id="@+id/option1"
+                android:checkable="true"
+                android:title="option1"/>
+            <item
+                android:id="@+id/option2"
+                android:checkable="true"
+                android:title="option2"/>
+        </menu>
+    </item>
+</menu>

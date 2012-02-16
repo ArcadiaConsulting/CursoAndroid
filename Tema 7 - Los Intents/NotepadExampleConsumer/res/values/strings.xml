@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, NotepadExampleConsumerActivity!</string>
+    <string name="app_name">NotepadExampleConsumer</string>
+    <string name="TitleText">Activity que maneja las notas</string>
+    <string name="ListNotesButtonText">Listar las notas</string>
+    <string name="editNoteButtonText">Editar nota</string>
+    <string name="createNoteButtonText">Crear una nueva nota</string>
+    <string name="ManageTextNotes">Editar las notas por ID</string>
+    <string name="changeNoteTitleText">Cambiar título</string>
+    <string name="noteID">El Id de la nota seleccionada es:</string>
+    <string name="noteIdText">(Vacio)</string>
+    <string name="pickNoteButtonText">Elegir una nota</string>
+    <string name="selectNoteTextView">Seleccionar una nota para editar</string>
+
+</resources>
